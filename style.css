@@ -54,13 +54,14 @@ section h2 {
 }
 
 .activity-list {
+    background: red;
     display: flex;
     flex-direction: column;
     gap: 14px;
 }
 
 .activity-card {
-    background: #F54927;
+    background: white;
     border: 1px solid #e5e7eb;
     border-radius: 8px;
     padding: 22px 24px;
