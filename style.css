@@ -54,9 +54,11 @@ section h2 {
 }
 
 .activity-list {
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
 }
 
 .activity-card {
