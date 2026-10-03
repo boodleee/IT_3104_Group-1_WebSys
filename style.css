@@ -12,8 +12,8 @@ body {
 }
 
 header {
-    background: #184d9d;
-    color: #222;
+    background: #ad1222;
+    color: white;
     padding: 30px 20px;
     text-align: center;
 }
@@ -31,7 +31,7 @@ header h1 {
 
 header p {
     font-size: 15px;
-    color: #666;
+    color: white;
     letter-spacing: 0.3px;
 }
 
